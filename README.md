@@ -1,2 +1,2 @@
 # Automating-GIS
-Python Scripts for Common ArcGIS Roads and Highways Extenstion Automation Tasks for Importing Tabular Data to Roads and Highways Format
+Python Scripts for Importing Tabular Data to ArcGIS Roads and Highways Extenstion 
